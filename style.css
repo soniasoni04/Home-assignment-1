@@ -1,0 +1,7 @@
+img{
+    width: 200px;
+    height : 200px;
+    display: block;
+    border: 1px dotted gray;
+    margin : 10px;
+}
